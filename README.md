@@ -1,7 +1,7 @@
 # Analiza dynamiki zjawisk społeczno-gospodarczych (GUS)
 
 ## Opis projektu
-Projekt przedstawia kompleksową analizę szeregów czasowych z wykorzystaniem danych statystycznych pozyskanych bezpośrednio z **Banku Danych Lokalnych GUS** (`bdl.stat.gov.pl`). Celem projektu było zbadanie tendencji oraz tempa zmian wybranego zjawiska (liczby aktywnych subskrybentów) w perspektywie wieloletniej (lata 2014–2023).
+Projekt przedstawia kompleksową analizę szeregów czasowych z wykorzystaniem danych statystycznych pozyskanych bezpośrednio z **Banku Danych Lokalnych GUS (bdl.stat.gov.pl)**. Celem projektu było zbadanie tendencji oraz tempa zmian wybranego zjawiska (liczby aktywnych subskrybentów) w perspektywie wieloletniej (lata 2014–2023).
 
 ## Narzędzia i Technologie
 * **Microsoft Excel**: Formuły analityczne, wskaźniki dynamiki, formatowanie warunkowe, strukturyzacja danych tabelarycznych.
